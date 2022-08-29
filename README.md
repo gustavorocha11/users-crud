@@ -10,7 +10,7 @@
 $ docker-compose up --build
 ```
 
-### Run Database
+### Run Aplication
 
 ```
 $ go run main.go
